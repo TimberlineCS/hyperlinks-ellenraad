@@ -55,5 +55,3 @@ In this lab you will use <a></a> tag to create internal and external links, and 
 	* Navigate to this repository on GitHub and locate the Settings link
 	* Locate the _GitHub Pages_ section and select _master_ from the branch menu, then save. [GitHubScreenshot.jpg](GitHubScreenshot.jpg) 
 	* Return to the _GitHub Pages_ section and note the link that was created. [GitHubScreenshot2.jpg](GitHubScreenshot2.jpg).  You will need to wait a bit, but this is the link to your live site!
-
-
